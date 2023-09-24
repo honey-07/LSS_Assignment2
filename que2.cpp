@@ -1,4 +1,3 @@
-
 echo "Enter number of rows : "
 read n
 i=1
